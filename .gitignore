@@ -1,0 +1,7 @@
+*.pdb
+*.user
+*.old
+*.ncb
+*.sdf
+*.vcxproj
+*.vcxproj.filters
