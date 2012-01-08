@@ -1,13 +1,5 @@
-
-SSSSSS  HH  HH      A      ZZZZZ      A      MMM   MMM
-SS      HH  HH     A A        ZZ     A A     MM M M MM
-SSSSSS  HHHHHH    AAAAA      ZZ     AAAAA    MM  M  MM
-    SS  HH  HH   A     A    ZZ     A     A   MM     MM 
-SSSSSS  HH  HH  A       A  ZZZZZ  A       A  MM     MM 
-
-SHOOT AND ZAP ALIEN MONSTERS
-
-By Phillip Napieralski
+SHAZAM - SHOOT AND ZAP ALIEN MONSTERS
+=====================================
 
 STORY
 -----
@@ -19,20 +11,18 @@ Fly around using the mouse and keyboard to collect fuel upgrades (the letter U s
 
 CONTROLS
 --------
-W – Accelerate forward
-S  – Accelerate Backward
-ESC – Exit the game
-F1 – Toggle hit boxes
-Use your mouse to move the ship’s view.
-	
+* W - Accelerate forward
+* S - Accelerate Backward
+* ESC - Exit the game
+* F1 - Toggle hit boxes
+* Use your mouse to move the ship’s view.
 
 COMPILING INSTRUCTIONS
-======================
+----------------------
 1. Requires GLUT (included)
 2. Install FMOD Ex API 
-3. Install Autodesk FBX SDK
-4. Open .sln file in Visual Studio 2010
-5. Compile.
+3. Open .sln file in Visual Studio 2010
+4. Compile
 
 LICENSES
 ========
