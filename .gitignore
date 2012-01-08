@@ -3,5 +3,5 @@
 *.old
 *.ncb
 *.sdf
-*.vcxproj
 *.vcxproj.filters
+*.vcxproj.user

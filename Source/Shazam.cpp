@@ -8,14 +8,14 @@
 #include "Shazam.h"
 #include "Console8.h"
 
-#include "fmod.hpp"
-#include "../../api/inc/fmod_errors.h"
+// You must include the fmod directory in your project
+#include <fmod.hpp>
+#include <../../api/inc/fmod_errors.h>
 
 Shazam shazam;
 
 /* this num divides the mouse sensitivity to make it smaller */
 static float SCALE = 10.0f; 
-
 
 void ERRCHECK(FMOD_RESULT result)
 {

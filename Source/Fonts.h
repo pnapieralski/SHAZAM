@@ -13,7 +13,7 @@
    - MODIFICATION: Drawing fonts no longer sets the cursor to invisible
  */
 
-#include <gl/glut.h>
+#include "glut.h"
 #include <string>
 
 using namespace std;
